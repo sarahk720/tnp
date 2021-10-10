@@ -35,7 +35,19 @@
     Our diversity of our systems allow us to test multiple environments, meaning we can test our game without the need for external help.
     Unity is the chosen software being used to development of our game, some members have experience with using it but not enough for it to be notable.</h3>
   
-
+  <h2>Plan and current outcomes</h2>
+    <h3>Despite having its ups and downs, our end goals have not changed. We aim to create an aim trainer with 2-3 aiming scenarios. 
+        As a team we never set any solid roles, but still maintained frequent and regular communication as well as splitting the work up well. 
+        The process would've been smoother had we been more experienced in Unity, however our progress relative to our timetable has been solid. 
+        Our biggest roadblocks were: our most experienced member leaving, and spending time to understand Unity. 
+        No changes need to be made to our timetable, and we will be able to finish on track with our schedule.
+        (INSERT PLAN AND CURRENT OUTCOMES IMAGES)</h3>
+  
+  <h2>Functional UI</h2>
+      (INSERT VIDEO)
+  
+  <h2>Drills</h2>
+      (INSERT VIDEOS)
 
 
 </body>
