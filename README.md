@@ -42,11 +42,10 @@
         No changes need to be made to our timetable, and we will be able to finish on track with our schedule.
         (INSERT PLAN AND CURRENT OUTCOMES IMAGES)</h3>
   
-  <h2>Functional UI</h2>
-      (INSERT VIDEO)
-  
-  <h2>Drills</h2>
-      (INSERT VIDEOS)
+  <h2>Functional UI & Drills</h2>
+  <iframe width="420" height="315"
+    src="https://youtu.be/ROfJiQkrOzo">
+  </iframe>
   
   <h2>Current Challenges</h2>
     <h3>As essentially first time Unity users, our group came across a lot of bugs. 
