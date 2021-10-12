@@ -6,7 +6,8 @@
 
 <h1>Aim Trainer</h1>
   <h2>People</h2>
-    <h3>Jackson - Designing and assisting with drills
+    <h3> 
+        Jackson - Designing and assisting with drills
 
         Jessica - Creating Unity Drills
 
